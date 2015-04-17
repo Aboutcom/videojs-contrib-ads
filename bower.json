@@ -23,6 +23,11 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "exmaple",
+    "*.png",
+    "*.yml",
+    "*.graffle",
+    "*.md"
   ]
 }
